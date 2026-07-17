@@ -3,7 +3,7 @@
 
 <!-- <div align="center">
   <a href="/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-81B0AF?logo=linkedin-white&logoColor=000" height="25" alt="linkedin logo" /></a> 
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-81B0AF?logo=linkedin-white&logoColor=000" height="25" alt="linkedin logo" /></a>
   <a href="/">
     <img src="https://img.shields.io/badge/Portfolio%20-81B0AF?styles=for-the-badge&logo=hotjar&logoColor=white" height="25" alt="portfolio logo"  /></a>
   <a href="/">
@@ -82,9 +82,9 @@
 <p align="center">
 
   <a href="https://github.com/soraplex?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=soraplex&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Scott's github-readme-stats"/></a>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=soraplex&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=7f9fc4&text_color=A6ACA6&icon_color=76baa8&bg_color=1E222A&border_color=363744"  width="48%" alt="@Scott's github-readme-stats"/></a>
   <a href="https://github.com/soraplex?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=soraplex&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Scott's github-readme-streak-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=soraplex&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1E222A&ring=7f9fc4&fire=7f9fc4&currStreakLabel=7f9fc4&sideNums=A6ACA6&currStreakNum=76baa8&sideLabels=A6ACA6&dates=A6ACA6&border=363744" width="48%" alt="@Scott's github-readme-streak-stats"/>
   </a>
 
 </p>
@@ -95,7 +95,6 @@
 #D2B48C
 #2384AAAD
 #7391c8
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="50" />
