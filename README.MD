@@ -3,8 +3,8 @@
 
 <div>
 <br>
-- 🍊 Currently refining my skills in JavaScript, React, Python, and SQL<br/>
-- 🌠 A design enthusiast and PC/Tech aficionado<br/>
+🍊 Currently refining my skills in JavaScript, React, Python, and SQL<br/>
+🌠 A design enthusiast and PC/Tech aficionado<br/>
 </div>
 <br/>
 
