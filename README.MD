@@ -2,15 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,50:1a2a3a,100:76baa8&height=180&section=header&text=Hey,%20I'm%20Scott&fontSize=42&fontColor=7f9fc4&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Design-Minded%20Builder&descAlignY=58&descColor=A6ACA6" />
 </div>
 
-
 I'm a full-stack developer with a focus on building performant, well-crafted web applications. My work spans the full stack — from React frontends to Python backends and relational databases — with an emphasis on clean architecture and thoughtful UI. I bring a strong design sensibility to everything I build, believing that how software feels is just as important as how it functions.
 
-- 💼 Professionally working across **React**, **JavaScript**, **Python**, and **SQL**
+- 💼 Professionally working across **React**, **JavaScript**, and **SQL**
 - 🎨 Strong UI/UX sensibility with a focus on design quality and user experience
 - 🖥️ Deep interest in PC hardware and emerging technologies
 - 📈 Continuously expanding expertise across the full-stack development lifecycle
-
----
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +35,6 @@ I'm a full-stack developer with a focus on building performant, well-crafted web
     <img src="https://github-readme-streak-stats.herokuapp.com?user=soraplex&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=090B10&ring=7f9fc4&fire=7f9fc4&currStreakLabel=7f9fc4&sideNums=A6ACA6&currStreakNum=76baa8&sideLabels=A6ACA6&dates=A6ACA6&border=363744" width="48%" alt="Scott's Streak Stats"/>
   </a>
 </div>
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:76baa8,50:1a2a3a,100:090B10&height=100&section=footer" />
