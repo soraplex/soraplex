@@ -1,32 +1,34 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,50:1a2a3a,100:76baa8&height=180&section=header&text=Hey,%20I'm%20Scott&fontSize=42&fontColor=7f9fc4&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Design-Minded%20Builder&descAlignY=58&descColor=A6ACA6" />
-
 </div>
 
----
 
 I'm a full-stack developer with a focus on building performant, well-crafted web applications. My work spans the full stack — from React frontends to Python backends and relational databases — with an emphasis on clean architecture and thoughtful UI. I bring a strong design sensibility to everything I build, believing that how software feels is just as important as how it functions.
 
-- 💼 Professionally working across **React**, **JavaScript**, and **SQL**
+- 💼 Professionally working across **React**, **JavaScript**, **Python**, and **SQL**
 - 🎨 Strong UI/UX sensibility with a focus on design quality and user experience
 - 🖥️ Deep interest in PC hardware and emerging technologies
 - 📈 Continuously expanding expertise across the full-stack development lifecycle
 
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,python,nodejs,html,css&perline=7" width="300" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,html,css,bootstrap&perline=7" width="300" /><br/>
   <sub>Frontend & Language</sub>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=7" width="100" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django&perline=7" width="150" /><br/>
+  <sub>Backend</sub>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=7" width="150" /><br/>
   <sub>Databases</sub>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" width="150" /><br/>
   <sub>Tools</sub>
 </div>
 
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/soraplex?tab=repositories">
