@@ -1,25 +1,43 @@
-<div align="center"><h1> Hello there, I'm Scott!</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,50:1a2a3a,100:76baa8&height=180&section=header&text=Hey,%20I'm%20Scott&fontSize=42&fontColor=7f9fc4&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Design-Minded%20Builder&descAlignY=58&descColor=A6ACA6" />
+
 </div>
 
-<div>
-<br>
-🍊 Currently refining my skills in JavaScript, React, Python, and SQL<br/>
-🌠 A design enthusiast and PC/Tech aficionado<br/>
+---
+
+I'm a full-stack developer with a focus on building performant, well-crafted web applications. My work spans the full stack — from React frontends to Python backends and relational databases — with an emphasis on clean architecture and thoughtful UI. I bring a strong design sensibility to everything I build, believing that how software feels is just as important as how it functions.
+
+- 💼 Professionally working across **React**, **JavaScript**, and **SQL**
+- 🎨 Strong UI/UX sensibility with a focus on design quality and user experience
+- 🖥️ Deep interest in PC hardware and emerging technologies
+- 📈 Continuously expanding expertise across the full-stack development lifecycle
+
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,nodejs,html,css&perline=7" width="300" /><br/>
+  <sub>Frontend & Language</sub>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=7" width="100" /><br/>
+  <sub>Databases</sub>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" width="150" /><br/>
+  <sub>Tools</sub>
 </div>
-<br/>
 
-# 💻 Skills
 
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,javascript,mysql,python,git,postgresql,nodejs,html,css,vscode,github&perline=12" width="400" />
-</div>
-
-<p align="center">
-
+<div align="center">
   <a href="https://github.com/soraplex?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=soraplex&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=7f9fc4&text_color=A6ACA6&icon_color=76baa8&bg_color=090B10&border_color=363744"  width="48%" alt="@Scott's github-readme-stats"/></a>
-  <a href="https://github.com/soraplex?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=soraplex&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=090B10&ring=7f9fc4&fire=7f9fc4&currStreakLabel=7f9fc4&sideNums=A6ACA6&currStreakNum=76baa8&sideLabels=A6ACA6&dates=A6ACA6&border=363744" width="48%" alt="@Scott's github-readme-streak-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=soraplex&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=7f9fc4&text_color=A6ACA6&icon_color=76baa8&bg_color=090B10&border_color=363744" width="48%" alt="Scott's GitHub Stats"/>
   </a>
+  <a href="https://github.com/soraplex?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=soraplex&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=090B10&ring=7f9fc4&fire=7f9fc4&currStreakLabel=7f9fc4&sideNums=A6ACA6&currStreakNum=76baa8&sideLabels=A6ACA6&dates=A6ACA6&border=363744" width="48%" alt="Scott's Streak Stats"/>
+  </a>
+</div>
 
-</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76baa8,50:1a2a3a,100:090B10&height=100&section=footer" />
+</div>
